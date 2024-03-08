@@ -1,2 +1,0 @@
-# Portugol
-estudando Portugol
